@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 *.DS_Store
 *.DS_Store?
+*.tsv
+*.gz
+Project/Wikispeedia/wikispeedia_paths-and-graph/shortest-path-distance-matrix.txt
