@@ -3,3 +3,7 @@
 *.DS_Store?
 .idea
 .idea/
+/Project/Wikispeedia
+Project/YouNiverse/num_comments.tsv.gz
+Project/YouNiverse/time_series.tsv.gz
+Project/YouNiverse/channels.tsv.gz
